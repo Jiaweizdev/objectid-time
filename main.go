@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	// Expect a ObjectId passed as the first CLI parameter
+	// Expect an ObjectId passed as the first CLI parameter
 	input := os.Args[1]
 
 	// Check if it is a valid ObjectID
